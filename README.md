@@ -1,2 +1,2 @@
 this is my first git repository. 
-Aauthor Ritik Singh
+Author : Ritik Singh
