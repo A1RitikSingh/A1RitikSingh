@@ -1,2 +1,3 @@
-this is my first git repository. 
+This Is My First Git repository.
+<br>
 Author : Ritik Singh
